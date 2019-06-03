@@ -20,22 +20,36 @@ I have been employed as a Forensic Video Technician with the Royal Newfoundland 
 
 `2017-Present`
 __Forensic Video technician__
+
 `2014-2017`
 __Independent Contractor (Information Technology)__
+
 `2009-2014`
 _Programmer Consultant (Memorial University)_
+
 `2006-2008`
 _Systems Programmer (Memorial University)_
 
 
 ### Training and Education
 
-| 2019 | LEVA Level 2: Digital Multimedia Evidence Processing |
-| 2018 | LEVA Level 1: Forensic Video Analysis & The Law |
-| 2018 | CPKN: Digital Evidence: Front Line Investigation |
-| 2018 | CPKN: Courtroom Testimony Skills |
-| 2018 | CPKN: Basic Investigation Skills |
-| 2010 | Bachelor of Science in Computer Science |
+`2019`
+_LEVA Level 2: Digital Multimedia Evidence Processing_
+
+`2018`
+_LEVA Level 1: Forensic Video Analysis & The Law_
+
+`2018`
+_CPKN: Digital Evidence: Front Line Investigation_
+
+`2018`
+_CPKN: Courtroom Testimony Skills_
+
+`2018`
+_CPKN: Basic Investigation Skills_
+
+`2010`
+_Bachelor of Science in Computer Science_
 
 
 ## Education
