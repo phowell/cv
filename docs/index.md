@@ -1,18 +1,20 @@
 ---
 layout: cv
-title: Curriculum Vitae, Peter Howell
+title: Curriculum Vitae - Peter Howell
 ---
+
 # Peter Howell
-Forensic Video Technician, Royal Newfoundland Constabulary
 
 <div id="webaddress">
-<a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a>
+Email: <a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a> |
+This Document: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> |
+Telephone: (709) 729-8510 |
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Forensic Video Technician, Royal Newfoundland Constabulary
 
 ### Specialized in
 
