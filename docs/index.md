@@ -25,47 +25,48 @@ __Forensic Video technician__
 __Independent Contractor (Information Technology)__
 
 `2009-2014`
-_Programmer Consultant (Memorial University)_
+__Programmer Consultant (Memorial University)__
 
 `2006-2008`
-_Systems Programmer (Memorial University)_
+__Systems Programmer (Memorial University)__
 
 
 ### Training and Education
 
 `2019`
-_LEVA Level 2: Digital Multimedia Evidence Processing_
+__LEVA Level 2: Digital Multimedia Evidence Processing__
 
 `2018`
-_LEVA Level 1: Forensic Video Analysis & The Law_
+__LEVA Level 1: Forensic Video Analysis & The Law__
 
 `2018`
-_CPKN: Digital Evidence: Front Line Investigation_
+__CPKN: Digital Evidence: Front Line Investigation__
 
 `2018`
-_CPKN: Courtroom Testimony Skills_
+__CPKN: Courtroom Testimony Skills__
 
 `2018`
-_CPKN: Basic Investigation Skills_
+__CPKN: Basic Investigation Skills__
 
 `2010`
-_Bachelor of Science in Computer Science_
+__Bachelor of Science in Computer Science__
 
+---
 
-## Education
+## Details
+### Experience
 
-`1654-1660`
-__The King's School, Grantham.__
+`May 2017 - Present`
+__Forensic Video Technician__
+Royal Newfoundland Constabulary, St. John's, NL
+ * Forensically acquire digital video evidence from DVR and NVR systems.
+ * Enhance and clarify digital images.
+ * Record voicemail messages and extract audio tracks from video files.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2014 - 2017`
+__Independent Contractor__
+ * Provided on-site IT support for retail and banking institutions, including a major hardware refresh with Scotiabank.
+ * Worked through a third party contracting service to configure and troubleshoot point-of-sale infrastructure.
 
 
 
