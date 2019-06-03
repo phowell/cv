@@ -12,13 +12,18 @@ Telephone: (709) 729-8510 |
 </div>
 
 
-## Currently
+## Summary
 
-Forensic Video Technician, Royal Newfoundland Constabulary
+I have been employed as a Forensic Video Technician with the Royal Newfoundland Constabulary’s Video Services Unit (VSU) since May 2017. My duties include the extraction of data from video monitoring systems, as well as the extraction and clarification of still images from video. I have received certification from LEVA as a forensic video technician, and also hold a Bachelor’s Degree in Computer Science. Prior to joining the VSU I was employed in the Information Technology field for over 10 years.
 
-### Specialized in
+### Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+---
+2017-Present: Forensic Video technician
+2014-2017: Independent Contractor (Information Technology)
+2009-2014: Programmer Consultant (Memorial University)
+2006-2008: Systems Programmer (Memorial University)
+---
 
 
 ### Research interests
