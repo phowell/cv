@@ -7,8 +7,8 @@ title: Curriculum Vitae - Peter Howell
 
 <div id="webaddress">
 Email: <a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a> |
-This Document: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> |
-Telephone: (709) 729-8510 |
+Telephone: (709) 729-8510 <br/>
+Current CV: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> |
 </div>
 
 
@@ -16,19 +16,22 @@ Telephone: (709) 729-8510 |
 
 I have been employed as a Forensic Video Technician with the Royal Newfoundland Constabulary’s Video Services Unit (VSU) since May 2017. My duties include the extraction of data from video monitoring systems, as well as the extraction and clarification of still images from video. I have received certification from LEVA as a forensic video technician, and also hold a Bachelor’s Degree in Computer Science. Prior to joining the VSU I was employed in the Information Technology field for over 10 years.
 
-### Experience
+### Work Experience
 
----
-2017-Present: Forensic Video technician
-2014-2017: Independent Contractor (Information Technology)
-2009-2014: Programmer Consultant (Memorial University)
-2006-2008: Systems Programmer (Memorial University)
----
+| 2017-Present: | Forensic Video technician |
+|2014-2017: | Independent Contractor (Information Technology)|
+|2009-2014: | Programmer Consultant (Memorial University)|
+|2006-2008: | Systems Programmer (Memorial University)|
 
 
-### Research interests
+### Training and Education
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+| 2019 | LEVA Level 2: Digital Multimedia Evidence Processing |
+| 2018 | LEVA Level 1: Forensic Video Analysis & The Law |
+| 2018 | CPKN: Digital Evidence: Front Line Investigation |
+| 2018 | CPKN: Courtroom Testimony Skills |
+| 2018 | CPKN: Basic Investigation Skills |
+| 2010 | Bachelor of Science in Computer Science |
 
 
 ## Education
