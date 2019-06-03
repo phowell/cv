@@ -51,22 +51,23 @@ __CPKN: Basic Investigation Skills__
 `2010`
 __Bachelor of Science in Computer Science__
 
----
 
+---
 ## Details
 ### Experience
 
 `May 2017 - Present`
 __Forensic Video Technician__
+
 Royal Newfoundland Constabulary, St. John's, NL
- * Forensically acquire digital video evidence from DVR and NVR systems.
- * Enhance and clarify digital images.
- * Record voicemail messages and extract audio tracks from video files.
+- Forensically acquire digital video evidence from DVR and NVR systems.
+- Enhance and clarify digital images.
+- Record voicemail messages and extract audio tracks from video files.
 
 `2014 - 2017`
 __Independent Contractor__
- * Provided on-site IT support for retail and banking institutions, including a major hardware refresh with Scotiabank.
- * Worked through a third party contracting service to configure and troubleshoot point-of-sale infrastructure.
+- Provided on-site IT support for retail and banking institutions, including a major hardware refresh with Scotiabank.
+- Worked through a third party contracting service to configure and troubleshoot point-of-sale infrastructure.
 
 
 
