@@ -54,12 +54,11 @@ __Bachelor of Science in Computer Science__
 
 ---
 ## Details
-### Experience
+### Work Experience
 
 `May 2017 - Present`
 __Forensic Video Technician__
-
-Royal Newfoundland Constabulary, St. John's, NL
+_Royal Newfoundland Constabulary, St. John's, NL_
 - Forensically acquire digital video evidence from DVR and NVR systems.
 - Enhance and clarify digital images.
 - Record voicemail messages and extract audio tracks from video files.
@@ -69,50 +68,40 @@ __Independent Contractor__
 - Provided on-site IT support for retail and banking institutions, including a major hardware refresh with Scotiabank.
 - Worked through a third party contracting service to configure and troubleshoot point-of-sale infrastructure.
 
+`2011 - 2014`
+__Programmer Consultant__
+_Memorial University, St. John’s, NL (CITL)_
+- Maintained and supported Linux/Windows hybrid server environment.
+- Managed network file share, and handled backup file recovery.
+- Administered and maintained MySql and Postgres databases.
+- Developed and maintained multiple software packages for courses, clients, and internal use.
+
+`2009 - 2010`
+__Programmer Consultant__
+_Memorial University, St. John’s, NL (Engineering & Applied Sciences)_
+- Supported all computing activity within the department, including office staff, multiple undergraduate labs, and high performance computing by grad students and faculty.
+- Performed an audit of departmental IT infrastructure in preparation for a complete overhaul.
+
+`2006 - 2008`
+__Systems Programmer__
+_Memorial University, St. John’s, NL (Computer Science)_
+- Provided technical support for students, staff, and faculty in the computer science department.
+- Worked on projects involving the department’s Labnet diskless Linux environment.
 
 
-## Awards
+### Training and Education
+LEVA Level 2: Digital Multimedia Evidence Processing
+A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 22-26, 2019.  Building on the concepts of the level 1 course, topics covered include: Audio theory, non-linear editing, the scientific method as it applies to video forensics, expert report writing, and introductions to a number of tools used in the field (eg. Input-ace, Amped 5, clearID)
 
-`2012`
-President, *Royal Society*, London, UK
+LEVA Level 1: Forensic Video Analysis & the Law
+A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of DME, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Bachelor of Science in Computer Science
+Memorial University of Newfoundland, St. John’s, NL
+May 2010
+Studies included: Software Development, Data structures, Algorithm design, Complexity theory, Computer Architecture, Data Analysis, Information Systems, Programming languages, Operating Systems, Database systems.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 3, 2019 -->
