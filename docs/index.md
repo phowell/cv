@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curriculum Vitae, Peter Howell
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Peter Howell
+Forensic Video Technician, Royal Newfoundland Constabulary
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a>
 </div>
 
 
@@ -58,7 +57,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +86,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
