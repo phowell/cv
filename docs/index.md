@@ -18,8 +18,11 @@ I have been employed as a Forensic Video Technician with the Royal Newfoundland 
 
 ### Work Experience
 
-| 2017-Present: | Forensic Video technician |
-|2014-2017: | Independent Contractor (Information Technology)|
+`2017-Present`
+__Forensic Video technician__
+
+`2014-2017`
+__Independent Contractor (Information Technology)__
 |2009-2014: | Programmer Consultant (Memorial University)|
 |2006-2008: | Systems Programmer (Memorial University)|
 
