@@ -90,18 +90,20 @@ _Memorial University, St. John’s, NL (Computer Science)_
 
 
 ### Training and Education
-LEVA Level 2: Digital Multimedia Evidence Processing
-A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 22-26, 2019.  Building on the concepts of the level 1 course, topics covered include: Audio theory, non-linear editing, the scientific method as it applies to video forensics, expert report writing, and introductions to a number of tools used in the field (eg. Input-ace, Amped 5, clearID)
+`April 22 - 26, 2019`
+__LEVA Level 2: Digital Multimedia Evidence Processing__
+A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services.  Building on the concepts of the level 1 course, topics covered include: Audio theory, non-linear editing, the scientific method as it applies to video forensics, expert report writing, and introductions to a number of tools used in the field (eg. Input-ace, Amped 5, clearID)
 
-LEVA Level 1: Forensic Video Analysis & the Law
+`April 30 - May 4, 2018`
+__LEVA Level 1: Forensic Video Analysis & the Law__
 A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of DME, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
 
-Bachelor of Science in Computer Science
-Memorial University of Newfoundland, St. John’s, NL
-May 2010
-Studies included: Software Development, Data structures, Algorithm design, Complexity theory, Computer Architecture, Data Analysis, Information Systems, Programming languages, Operating Systems, Database systems.
+`May 2010`
+__Bachelor of Science in Computer Science__
+- Memorial University of Newfoundland, St. John’s, NL
+- Studies included: Software Development, Data structures, Algorithm design, Complexity theory, Computer Architecture, Data Analysis, Information Systems, Programming languages, Operating Systems, Databases.
 
 
 <!-- ### Footer
 
-Last updated: June 3, 2019 -->
+Last updated: June 4, 2019 -->
