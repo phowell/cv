@@ -52,7 +52,7 @@ __CPKN: Basic Investigation Skills__
 __Bachelor of Science in Computer Science__
 
 
----
+
 ## Details
 ### Work Experience
 
@@ -97,6 +97,18 @@ A 5-day course. Presented by the Law Enforcement & Emergency Services Video Asso
 `April 30 - May 4, 2018`
 __LEVA Level 1: Forensic Video Analysis & the Law__
 A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of DME, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
+
+`April 2018`
+__CPKN: Digital Evidence Front Line Investigation__
+TODO: There should be text here
+
+`April 2018`
+__CPKN: Courtroom Testimony Skills__
+TODO: There should be text here
+
+`March 2018`
+__CPKN: Basic Investigation Skills__
+TODO: There should be text here
 
 `May 2010`
 __Bachelor of Science in Computer Science__
