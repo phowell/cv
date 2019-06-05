@@ -92,23 +92,23 @@ _Memorial University, St. John’s, NL (Computer Science)_
 ### Training and Education
 `April 22 - 26, 2019`
 __LEVA Level 2: Digital Multimedia Evidence Processing__
-A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services.  Building on the concepts of the level 1 course, topics covered include: Audio theory, non-linear editing, the scientific method as it applies to video forensics, expert report writing, and introductions to a number of tools used in the field (eg. Input-ace, Amped 5, clearID)
+- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services.  Building on the concepts of the level 1 course, topics covered include: Audio theory, non-linear editing, the scientific method as it applies to video forensics, expert report writing, and introductions to a number of tools used in the field (eg. Input-ace, Amped 5, clearID)
 
 `April 30 - May 4, 2018`
 __LEVA Level 1: Forensic Video Analysis & the Law__
-A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of DME, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
+- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of DME, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
 
 `April 2018`
 __CPKN: Digital Evidence Front Line Investigation__
-TODO: There should be text here
+- An introductory level overview, aiding a first responder at a technological and/or electronic crime scene to properly recognize, collect, preserve, transport, and store electronic and technological evidence.
 
 `April 2018`
 __CPKN: Courtroom Testimony Skills__
-TODO: There should be text here
+- A primer on providing testimony in court. In addition to reviewing the major roles within the court system and the basics of court proceedings, this course provides best practices for preparing and giving evidence.
 
 `March 2018`
 __CPKN: Basic Investigation Skills__
-TODO: There should be text here
+- An introductory course that focuses on key areas of crime investigation including case management, responding to a crime scene, interviewing, statement taking, gathering evidence, search warrants, and file presentation.
 
 `May 2010`
 __Bachelor of Science in Computer Science__
