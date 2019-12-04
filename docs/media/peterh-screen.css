@@ -77,6 +77,14 @@ p {
 	left: 23%;
 }
 
+#crest {
+	width: 90px;
+	float: left;
+	position: absolute;
+	/*top: 10px;*/
+	left: -22%;
+}
+
 code {
 	font: normal normal;
 	font-size: 90%;

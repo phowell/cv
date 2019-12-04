@@ -68,17 +68,31 @@ p {
 	width: 70%;
 }
 
+#mainbody p {
+	left: 20%;
+}
+
+#mainbody ul {
+	left: 20%;
+}
+
+#crest {
+	width: 70px;
+	float: left;
+	position: absolute;
+	/*top: 10px;*/
+	left: -18%;
+}
+
 code {
 	font: normal normal;
-	font-size: 85%;
-	/*line-height: 1em;*/
+	font-size: 90%;
 	font-family: Menlo,monospace,sans-serif;
-	/*color: #ccc;*/
 }
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -15%;
 }
 
 
@@ -87,15 +101,15 @@ ul {
 	left: 28%;
 	width: 65%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -133,23 +147,23 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	/*color: #a00;*/
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 15%;
 }
 
 
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
-	color: #ccc;
+	/*color: #ccc;*/
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 18%;
+	width: 15%;
 }
 
 a {
@@ -165,7 +179,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
+	/*color: #ccc;*/
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -176,7 +190,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	/*color: #2d4e5e*/ 
 }
 
 strong {

@@ -3,6 +3,8 @@ layout: cv
 title: Curriculum Vitae - Peter Howell
 ---
 
+![RNC Crest](rnc.png){:id="crest" }
+
 # Peter Howell
 
 <div id="webaddress">
@@ -14,11 +16,11 @@ Current CV: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv<
 
 ## Summary
 
-I have been employed by the Royal Newfoundland Constabulary's Technical Services Section since May 2017. I started, at that time, as a Forensic Video Technician, and have recently transitioned into a Computer Forensic Examiner role. I also hold a Bachelor’s Degree in Computer Science. Prior to joining the RNC I was employed in the Information Technology field for over 10 years.
+I have been employed by the Royal Newfoundland Constabulary's Technical Services Section since May 2017. I started, at that time, as a Forensic Video Technician. In that role, I was certified by LEVA, and performed over 100 extractions from DVR and NVR systems around the north-east Avalon region. In July 2019 I transitioned into a Computer Forensic Examiner role. I am currently in training and intend to attend the Canadian Police College's Computer Forensics course in January 2020. I also hold a Bachelor’s Degree in Computer Science. Prior to joining the RNC I was employed in the Information Technology field for over 10 years.
 
 ### Work Experience
 
-`2019 - Present`
+`2019 - Now`
 __Computer Forensic Examiner__
 
 `2017-2019`
@@ -71,6 +73,7 @@ __Bachelor of Science in Computer Science__
 __Computer Forensic Examiner__  
 _Royal Newfoundland Constabulary, St. John's, NL_  
 *July 2019 - Present*  
+- Currently in training. Registered for CMPFOR in January.
 - Forensically acquire data from mobile devices and computers.
 - Consult with, and advise investigators on technical issues.
 
@@ -81,6 +84,7 @@ _Royal Newfoundland Constabulary, St. John's, NL_
 - Forensically acquire digital video evidence from DVR and NVR systems.
 - Enhance and clarify digital images.
 - Record voicemail messages and extract audio tracks from video files.
+- Apply audio and video redaction techniques for the vetting of disclosure.
 
 __Independent Contractor__  
 *2014 - 2017*  
@@ -99,7 +103,7 @@ __Programmer Consultant__
 _Memorial University, St. John’s, NL (Engineering & Applied Sciences)_  
 *2009 - 2010*  
 - Supported all computing activity within the department, including office staff, multiple undergraduate labs, and high performance computing by grad students and faculty.
-- Performed an audit of departmental IT infrastructure in preparation for a complete overhaul.
+- Performed an audit of departmental IT infrastructure in preparation for a server overhaul.
 
 __Systems Programmer__  
 _Memorial University, St. John’s, NL (Computer Science)_  
@@ -120,7 +124,7 @@ __Cellebrite Certified Operator (CCO)__
 
 __Comptia A+ 220-1001__  
 *Oct. 8th 2019*  
-- A vendor neutral, self-paced exam, covering a broad range of Information Technology subjects, including hardware, operating systems, networking, and security.
+- A vendor neutral, self-paced exam, covering a broad range of Information Technology subjects; including printers, computer hardware, operating systems, and networking. A+ is intended to signify a general purpose, base-level of knowledge across the IT landscape.
 
 __LEVA Level 2: Digital Multimedia Evidence Processing__  
 *April 22nd - 26th, 2019*  
@@ -128,7 +132,7 @@ __LEVA Level 2: Digital Multimedia Evidence Processing__
 
 __LEVA Level 1: Forensic Video Analysis & the Law__  
 *April 30th - May 4th, 2018*  
-- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of DME, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
+- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of *digital multimedia evidence*, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
 
 __CPKN: Digital Evidence Front Line Investigation__  
 *April 2018*  
