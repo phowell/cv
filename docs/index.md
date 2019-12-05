@@ -66,7 +66,8 @@ __CPKN: Basic Investigation Skills__
 __Bachelor of Science in Computer Science__
 
 
-<div markdown=1 id=mainbody>
+<div markdown="1" id=mainbody>
+
 ## Details
 ### Work Experience
 
@@ -153,5 +154,4 @@ __Bachelor of Science in Computer Science__
 
 </div>
 <!-- ### Footer
-
 Last updated: December 2nd, 2019 -->
