@@ -10,7 +10,8 @@ title: Curriculum Vitae - Peter Howell
 <div id="webaddress">
 Email: <a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a> |
 Telephone: (709) 729-8628 <br/>
-Current CV: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a>
+A Current Version of this CV Can Always Be Found At: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> <br/>
+Last Revision: Dec. 5, 2019
 </div>
 
 
@@ -75,7 +76,7 @@ __Forensic Video Technician__
 _Royal Newfoundland Constabulary, St. John's, NL_  
 *May 2017 - July 2019*  
 - Forensically acquire digital video evidence from DVR and NVR systems.
-- Enhance and clarify digital images.
+- Apply clarification techniques on digital images.
 - Record voicemail messages and extract audio tracks from video files.
 - Apply audio and video redaction techniques for the vetting of disclosure.
 
