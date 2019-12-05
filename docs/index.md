@@ -66,7 +66,7 @@ __CPKN: Basic Investigation Skills__
 __Bachelor of Science in Computer Science__
 
 
-<div markdown="1" id=mainbody>
+<DIV id=mainbody markdown="1" >
 
 ## Details
 ### Work Experience
@@ -152,6 +152,6 @@ __Bachelor of Science in Computer Science__
 - Memorial University of Newfoundland, St. John’s, NL
 - Studies included: Software Development, Data structures, Algorithm design, Complexity theory, Computer Architecture, Data Analysis, Information Systems, Programming languages, Operating Systems, Databases.
 
-</div>
+</DIV>
 <!-- ### Footer
 Last updated: December 2nd, 2019 -->
