@@ -10,7 +10,7 @@ title: Curriculum Vitae - Peter Howell
 <div id="webaddress">
 Email: <a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a> |
 Telephone: (709) 729-8628 <br/>
-A Current Version of this CV Can Always Be Found At: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> <br/>
+My Current CV Can Always Be Found At: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> <br/>
 Last Revision: Dec. 5, 2019
 </div>
 
