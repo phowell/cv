@@ -66,7 +66,7 @@ __CPKN: Basic Investigation Skills__
 __Bachelor of Science in Computer Science__
 
 
-<span id=mainbody markdown="1" >
+<div id=mainbody markdown="1" >
 
 
 ## Details
@@ -154,7 +154,7 @@ __Bachelor of Science in Computer Science__
 - Studies included: Software Development, Data structures, Algorithm design, Complexity theory, Computer Architecture, Data Analysis, Information Systems, Programming languages, Operating Systems, Databases.
 
 
-</span>
+</div>
 
 <!-- ### Footer
 Last updated: December 2nd, 2019 -->
