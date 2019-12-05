@@ -3,7 +3,7 @@ layout: cv
 title: Curriculum Vitae - Peter Howell
 ---
 
-![RNC Crest](rnc.png){:id="crest" }
+<p><img src="rnc.png" alt="RNC Crest" id="crest"/></p>
 
 # Peter Howell
 
