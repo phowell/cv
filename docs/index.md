@@ -53,15 +53,6 @@ __LEVA Level 2: Digital Multimedia Evidence Processing__
 `2018`
 __LEVA Level 1: Forensic Video Analysis & The Law__
 
-`2018`
-__CPKN: Digital Evidence: Front Line Investigation__
-
-`2018`
-__CPKN: Courtroom Testimony Skills__
-
-`2018`
-__CPKN: Basic Investigation Skills__
-
 `2010`
 __Bachelor of Science in Computer Science__
 
@@ -75,7 +66,7 @@ __Bachelor of Science in Computer Science__
 __Computer Forensic Examiner__  
 _Royal Newfoundland Constabulary, St. John's, NL_  
 *July 2019 - Present*  
-- Currently in training. Registered for CMPFOR in January.
+- Currently in training.
 - Forensically acquire data from mobile devices and computers.
 - Consult with, and advise investigators on technical issues.
 
@@ -90,7 +81,7 @@ _Royal Newfoundland Constabulary, St. John's, NL_
 
 __Independent Contractor__  
 *2014 - 2017*  
-- Provided on-site IT support for retail and banking institutions, including a major hardware refresh with Scotiabank.
+- Provided on-site IT support for retail and banking institutions, including participation in a major project to update and replace computing hardware in Scotiabank branches around the province.
 - Worked through a third party contracting service to configure and troubleshoot point-of-sale infrastructure.
 
 __Programmer Consultant__  
@@ -105,7 +96,7 @@ __Programmer Consultant__
 _Memorial University, St. John’s, NL (Engineering & Applied Sciences)_  
 *2009 - 2010*  
 - Supported all computing activity within the department, including office staff, multiple undergraduate labs, and high performance computing by grad students and faculty.
-- Performed an audit of departmental IT infrastructure in preparation for a server overhaul.
+- Performed an audit of departmental IT assets in preparation for the upgrade and replacement of the majority of server infrastructure.
 
 __Systems Programmer__  
 _Memorial University, St. John’s, NL (Computer Science)_  
@@ -130,23 +121,11 @@ __Comptia A+ 220-1001__
 
 __LEVA Level 2: Digital Multimedia Evidence Processing__  
 *April 22nd - 26th, 2019*  
-- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services.  Building on the concepts of the level 1 course, topics covered include: Audio theory, non-linear editing, the scientific method as it applies to video forensics, expert report writing, and introductions to a number of tools used in the field (eg. Input-ace, Amped 5, clearID)
+- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services.  Building on the concepts of the level 1 course, topics covered include: Audio theory, non-linear editing, the scientific method as it applies to video forensics, expert report writing, and introductions to a number of tools used in the field (eg. Input-ace, Avid, clearID)
 
 __LEVA Level 1: Forensic Video Analysis & the Law__  
 *April 30th - May 4th, 2018*  
-- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services, April 30 – May 4, 2018. Topics covered include: Best practices for extraction of *digital multimedia evidence*, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
-
-__CPKN: Digital Evidence Front Line Investigation__  
-*April 2018*  
-- An introductory level overview, aiding a first responder at a technological and/or electronic crime scene to properly recognize, collect, preserve, transport, and store electronic and technological evidence.
-
-__CPKN: Courtroom Testimony Skills__  
-*April 2018*  
-- A primer on providing testimony in court. In addition to reviewing the major roles within the court system and the basics of court proceedings, this course provides best practices for preparing and giving evidence.
-
-__CPKN: Basic Investigation Skills__  
-*March 2018*  
-- An introductory course that focuses on key areas of crime investigation including case management, responding to a crime scene, interviewing, statement taking, gathering evidence, search warrants, and file presentation.
+- A 5-day course. Presented by the Law Enforcement & Emergency Services Video Association, hosted by Calgary Police Services. Topics covered include: Best practices for extraction of *digital multimedia evidence*, usage of write blockers, compression theory, Photoshop, authentication/integrity verification, and workflow.
 
 __Bachelor of Science in Computer Science__  
 *May 2010*  
