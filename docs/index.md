@@ -11,13 +11,13 @@ title: Curriculum Vitae - Peter Howell
 Email: <a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a> |
 Telephone: (709) 729-8628 <br/>
 My Current CV Can Always Be Found At: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> <br/>
-Last Revision: Dec. 5, 2019
+Last Revision: Mar. 5, 2020
 </div>
 
 
 ## Summary
 
-I have been employed by the Royal Newfoundland Constabulary's Technical Services Section since May 2017. I started, at that time, as a Forensic Video Technician. In that role, I was certified by LEVA, and performed over 100 extractions from DVR and NVR systems around the north-east Avalon region. In July 2019 I transitioned into a Computer Forensic Examiner role. I am currently in training and intend to attend the Canadian Police College's Computer Forensics course in January 2020. I also hold a Bachelor’s Degree in Computer Science. Prior to joining the RNC I was employed in the Information Technology field for over 10 years.
+I have been employed by the Royal Newfoundland Constabulary's Technical Services Section since May 2017. I started, at that time, as a Forensic Video Technician. In that role, I was certified by LEVA, and performed over 100 extractions from DVR and NVR systems around the north-east Avalon region. In July 2019 I transitioned into a Computer Forensic Examiner role. I completed the Canadian Police College's Computer Forensics course in January 2020. I also hold a Bachelor’s Degree in Computer Science. Prior to joining the RNC I was employed in the Information Technology field for over 10 years.
 
 ### Work Experience
 
@@ -38,6 +38,9 @@ __Systems Programmer (Memorial University)__
 
 
 ### Training and Education
+
+`2020`
+__Canadian Police College: Computer Forensic Examiner__
 
 `2019`
 __Cellebrite Certified Physical Analyst__
@@ -107,6 +110,10 @@ _Memorial University, St. John’s, NL (Computer Science)_
 
 
 ### Training and Education
+
+__Computer Forensic Examiner (CMPFOR)__
+*Jan. 13 - 31, 2020*
+- This course is for investigators who search, seize and analyse potential digital evidence found on personal computer hardware. It examines specific techniques used for recovery, authentication, and analysis of digital data and how to ensure evidence is isolated and extracted in a way that can be presented in court.
 
 __Cellebrite Certified Physical Analyst (CCPA)__  
 *Nov. 2019*  
