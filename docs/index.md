@@ -70,7 +70,7 @@ __Bachelor of Science in Computer Science__
 __Computer Forensic Examiner__  
 _Royal Newfoundland Constabulary, St. John's, NL_  
 *July 2019 - Present*  
-- Currently in training.
+- Completed CMPFOR Jan 2020.
 - Forensically acquire data from mobile devices and computers.
 - Consult with, and advise investigators on technical issues.
 
