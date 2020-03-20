@@ -11,7 +11,7 @@ title: Curriculum Vitae - Peter Howell
 Email: <a href="peterhowell@rnc.gov.nl.ca">peterhowell@rnc.gov.nl.ca</a> |
 Telephone: (709) 729-8628 <br/>
 My Current CV Can Always Be Found At: <a href="https://phowell.github.io/cv">https://phowell.github.io/cv</a> <br/>
-Last Revision: Mar. 5, 2020
+Last Revision: Mar. 20, 2020
 </div>
 
 
@@ -111,7 +111,7 @@ _Memorial University, St. John’s, NL (Computer Science)_
 
 ### Training and Education
 
-__Computer Forensic Examiner (CMPFOR)__
+__Computer Forensic Examiner (CMPFOR)__  
 *Jan. 13 - 31, 2020*
 - This course is for investigators who search, seize and analyse potential digital evidence found on personal computer hardware. It examines specific techniques used for recovery, authentication, and analysis of digital data and how to ensure evidence is isolated and extracted in a way that can be presented in court.
 
@@ -144,4 +144,4 @@ __Bachelor of Science in Computer Science__
 </div>
 
 <!-- ### Footer
-Last updated: December 2nd, 2019 -->
+Last updated: March 20, 2020 -->
