@@ -40,6 +40,9 @@ __Systems Programmer (Memorial University)__
 ### Training and Education
 
 `2020`
+__X-Ways Forensics I__
+
+`2020`
 __Canadian Police College: Computer Forensic Examiner__
 
 `2019`
@@ -111,6 +114,10 @@ _Memorial University, St. John’s, NL (Computer Science)_
 
 ### Training and Education
 
+__X-Ways Forensics I__
+*Sept. 21 - 24, 2020*
+- This is a 4-day course provided by the vendor that showcases the features of the X-Ways Forensics software, and demonstrates how they can be used in examinations. Topics covered include, among others: Best practices in data acquisition, file recovery techniques, use of hash databases, and use of filters to identify relevant files.
+
 __Computer Forensic Examiner (CMPFOR)__  
 *Jan. 13 - 31, 2020*
 - This course is for investigators who search, seize and analyse potential digital evidence found on personal computer hardware. It examines specific techniques used for recovery, authentication, and analysis of digital data and how to ensure evidence is isolated and extracted in a way that can be presented in court.
@@ -144,4 +151,4 @@ __Bachelor of Science in Computer Science__
 </div>
 
 <!-- ### Footer
-Last updated: March 20, 2020 -->
+Last updated: Sept 29th, 2020 -->
