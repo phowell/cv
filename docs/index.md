@@ -114,7 +114,7 @@ _Memorial University, St. John’s, NL (Computer Science)_
 
 ### Training and Education
 
-__X-Ways Forensics I__
+__X-Ways Forensics I__  
 *Sept. 21 - 24, 2020*
 - This is a 4-day course provided by the vendor that showcases the features of the X-Ways Forensics software, and demonstrates how they can be used in examinations. Topics covered include, among others: Best practices in data acquisition, file recovery techniques, use of hash databases, and use of filters to identify relevant files.
 
